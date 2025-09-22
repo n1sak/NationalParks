@@ -1,5 +1,4 @@
-# Which Park Should You Visit?  
-## National Parks Edition...
+# Which Park Should You Visit? National Parks Edition...
 
 As a National Parks enthusiast, I created this app to help fellow explorers decide *which parks to visit next!* This tool is designed to guide your future adventures.
 
